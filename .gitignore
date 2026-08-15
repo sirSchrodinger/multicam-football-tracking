@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.mp4
+*.jpg
+*.png
+*.npy
+*.pt
+*.onnx
+.venv/
+venv/
+frames/
+datasets/
+models/
+out/
+.DS_Store
